@@ -1,6 +1,3 @@
-Here's a concise and minimalist README for your web-based letter guessing game:
-
----
 
 # 🎯 Letter Guessing Game
 
