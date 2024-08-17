@@ -1,7 +1,7 @@
 
 # 🎯 Letter Guessing Game
 
-A simple web-based game where players guess the correct letter within a limited number of tries.
+A simple web-based game where players guess the correct letter along with hint to go higher or  lower.
 
 ## 🛠️ Installation
 
